@@ -1,0 +1,43 @@
+{
+  "name": "grunt-bower-installdep",
+  "description": "The best Grunt plugin ever.",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Dem-Jau",
+    "email": "tiex@netbuilder.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TiexSydney/grunt-bower-installdep.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1",
+    "adm-zip": "~0.4.3"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

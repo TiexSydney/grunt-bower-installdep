@@ -1,0 +1,6 @@
+{
+	"targetDir": "Libraries",
+	"bowerDir": "Bower-Dependencies",
+	"cwd": "target",
+	"unzip": false
+}
